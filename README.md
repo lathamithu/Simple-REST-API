@@ -1,2 +1,2 @@
-# Task-3
-Simple Rest API task
+# Simple Rest API task
+Task-3
